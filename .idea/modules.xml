@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Testing.iml" filepath="$PROJECT_DIR$/.idea/Java Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javatests/javatests.iml" filepath="$PROJECT_DIR$/javatests/javatests.iml" />
+    </modules>
+  </component>
+</project>
