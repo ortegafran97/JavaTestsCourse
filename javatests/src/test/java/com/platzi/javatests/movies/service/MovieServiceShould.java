@@ -39,6 +39,7 @@ class MovieServiceShould {
     @Test
     public void return_movies_by_genre() {
         Collection<Movie> movies = movieService.findMoviesByGenre(Genre.COMEDY);
+
         assertEquals(Arrays.asList(3,6), getMoviesIds(movies));
     }
 

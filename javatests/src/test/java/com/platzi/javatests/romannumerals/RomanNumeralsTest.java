@@ -1,4 +1,4 @@
-package com.platzi.javatests.payments.romannumerals;
+package com.platzi.javatests.romannumerals;
 
 import org.junit.jupiter.api.Test;
 
